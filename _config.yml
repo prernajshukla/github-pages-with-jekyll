@@ -1,7 +1,6 @@
 title: The Life of Prerna Shukla
 author: Prerna Shukla
 email: pshukla@ebnet.org
-theme: minima 
 description: > # this means to ignore newlines until "baseurl:"
  This website will be all about me. It will give a brief overview of who I am and what my interests are-- as well as ways to contact me.
 
@@ -10,3 +9,4 @@ twitter_username: prernashuklaa # DO NOT include the @ character, or else the bu
 github_username:  prernajshukla # DO NOT include the @ character, or else the build will fail!
 
 show_excerpts: true # set to false to remove excerpts on the homepage
+theme: minima
